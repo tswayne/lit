@@ -11,7 +11,7 @@
 				elems[territory.id] = territory.svgString;
 			});
 
-			$.extend(true, $.fn.mapael,
+			$.extend(true, $.mapael,
 				{
 					maps : {
 						game_board: {
